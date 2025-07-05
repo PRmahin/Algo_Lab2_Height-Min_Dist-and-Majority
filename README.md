@@ -1,0 +1,1 @@
+# Algo_Lab2_Height-Min_Dist-and-Majority
